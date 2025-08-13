@@ -16,15 +16,15 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "🥺কালা🌸🖤বিলাই ⚠️",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "aliakbarroku112006",
+        "https://www.facebook.com/profile.php?id=100074733318531",
+        "100074733318531"
     ],
     "NDH": [
-        "100000478146113"
+        "https://www.facebook.com/profile.php?id=100074733318531"
     ],
     "DATABASE": {
         "sqlite": {
@@ -88,12 +88,12 @@
     },
     "surprise": {
         "log": true,
-        "out": "",
+        "out": "🦵",
         "kickAll": "",
         "delThread": ""
     },
     "weather": {
-        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+        "OPEN_WEATHER": "🌦️"
     },
     "work": {
         "cooldownTime": 1200000
